@@ -1,0 +1,8 @@
+.menu-texto{
+  color: #FFF;
+}
+
+.menu-texto:hover{
+  text-decoration: none;
+  color: #FFF;
+}
